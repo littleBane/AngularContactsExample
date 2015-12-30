@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 a50f4c8a7a9c90942fac38aeb35ea1be183d2a76 Alex Abbott <gnusnews@gmail.com> 1450045787 -0700	clone: from https://github.com/angular/angular-seed.git
+a50f4c8a7a9c90942fac38aeb35ea1be183d2a76 8a156610336ac4554b471519f0f64fa60583876e Alex Abbott <gnusnews@gmail.com> 1451442444 -0700	commit: Initial commit from getting project running based on tutorials from Udemy course.
+8a156610336ac4554b471519f0f64fa60583876e 836ecc2e7ecfbda84a797eed4c09067992f65602 Alex Abbott <gnusnews@gmail.com> 1451443415 -0700	commit (merge): Resolved merge conflict from existing README.md files when moving origins.
+836ecc2e7ecfbda84a797eed4c09067992f65602 8a156610336ac4554b471519f0f64fa60583876e Alex Abbott <gnusnews@gmail.com> 1451443934 -0700	reset: moving to HEAD^
+8a156610336ac4554b471519f0f64fa60583876e 7132070bedd28b2bf294d3c38a4aa0f78d852c69 Alex Abbott <gnusnews@gmail.com> 1451444071 -0700	commit (merge): Resolved merge conflict from existing README.md files when moving origins.
+7132070bedd28b2bf294d3c38a4aa0f78d852c69 8a156610336ac4554b471519f0f64fa60583876e Alex Abbott <gnusnews@gmail.com> 1451444088 -0700	reset: moving to HEAD^
+8a156610336ac4554b471519f0f64fa60583876e a50f4c8a7a9c90942fac38aeb35ea1be183d2a76 Alex Abbott <gnusnews@gmail.com> 1451444489 -0700	reset: moving to HEAD^
+a50f4c8a7a9c90942fac38aeb35ea1be183d2a76 98b88b15c283ef8c18bf5706303ef9859d517ead Alex Abbott <gnusnews@gmail.com> 1451444872 -0700	commit (merge): Resolved merge conflict from existing README.md files when moving origins.
+98b88b15c283ef8c18bf5706303ef9859d517ead a50f4c8a7a9c90942fac38aeb35ea1be183d2a76 Alex Abbott <gnusnews@gmail.com> 1451444920 -0700	reset: moving to HEAD^
